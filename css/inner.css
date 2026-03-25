@@ -124,16 +124,10 @@
 }
 
 .service-aside-card--featured {
-  background: linear-gradient(145deg, #1a5c38 0%, #1e7a4a 100%);
-  border-color: transparent;
-  color: var(--white);
+  border-color: var(--green-dark);
+  border-width: 2px;
 }
 
-.service-aside-card--featured h4 { color: var(--white); }
-.service-aside-card--featured ul li { color: rgba(255,255,255,.75); }
-.service-aside-card--featured .aside-link { color: var(--green-accent); }
-.service-aside-card--featured .aside-icon { background: rgba(255,255,255,.12); }
-.service-aside-card--featured .aside-icon svg { color: var(--white); }
 .service-aside-card--featured .badge-pill {
   background: var(--green-accent);
   color: var(--green-dark);
