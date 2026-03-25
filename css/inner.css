@@ -838,6 +838,79 @@
 
 
 /* =========================================================
+   MEET OUR NOTARIES
+   ========================================================= */
+.notaries-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.notary-card {
+  background: var(--white);
+  border: 1px solid var(--gray-200);
+  border-radius: var(--radius-lg);
+  padding: 32px 28px;
+  text-align: center;
+  transition: box-shadow var(--transition), transform var(--transition);
+}
+
+.notary-card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+.notary-avatar {
+  width: 64px;
+  height: 64px;
+  background: var(--green-dark);
+  color: var(--white);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-serif);
+  font-size: 22px;
+  font-weight: 700;
+  margin: 0 auto 16px;
+}
+
+.notary-card h3 {
+  font-family: var(--font-serif);
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--gray-800);
+  margin-bottom: 16px;
+}
+
+.notary-contacts {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.notary-contact-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-size: 14.5px;
+  color: var(--gray-600);
+  transition: color var(--transition);
+}
+
+.notary-contact-item:hover { color: var(--green-dark); }
+
+.notary-contact-item svg {
+  width: 16px;
+  height: 16px;
+  color: var(--green-dark);
+  flex-shrink: 0;
+}
+
+/* =========================================================
    RESPONSIVE — INNER PAGES
    ========================================================= */
 @media (max-width: 1024px) {
