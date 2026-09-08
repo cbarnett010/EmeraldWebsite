@@ -160,7 +160,7 @@
   color: var(--green-dark);
 }
 
-.service-aside-card h4 {
+.service-aside-card h3 {
   font-family: var(--font-serif);
   font-size: 17px;
   font-weight: 700;
@@ -342,7 +342,7 @@
   color: var(--green-dark);
 }
 
-.req-card h4 {
+.req-card h3 {
   font-family: var(--font-serif);
   font-size: 17px;
   font-weight: 600;
@@ -500,7 +500,7 @@
 
 .location-card .req-icon { margin: 0 auto 16px; }
 
-.location-card h4 {
+.location-card h3 {
   font-family: var(--font-serif);
   font-size: 17px;
   font-weight: 600;
@@ -543,7 +543,7 @@
   margin-top: 2px;
 }
 
-.steps-list h4 {
+.steps-list h3 {
   font-family: var(--font-serif);
   font-size: 18px;
   font-weight: 600;
@@ -639,7 +639,7 @@
   margin-bottom: 24px;
 }
 
-.fee-example-box h4 {
+.fee-example-box h3 {
   font-size: 14px;
   font-weight: 700;
   color: var(--green-dark);
@@ -754,7 +754,7 @@
   color: var(--green-dark);
 }
 
-.ci-text h4 {
+.ci-text h3 {
   font-size: 11.5px;
   font-weight: 700;
   letter-spacing: .1em;
@@ -775,7 +775,7 @@
 .ci-text a:hover { color: var(--green-dark); }
 
 /* Service link pills */
-.contact-service-links h4 {
+.contact-service-links h3 {
   font-size: 12px;
   font-weight: 700;
   letter-spacing: .1em;

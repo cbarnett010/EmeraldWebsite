@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "site_url": "https://emeraldnotary.com",
+  "openseo": {
+    "url": "http://127.0.0.1:3001",
+    "status": "running"
+  },
+  "gsc": {
+    "connected": true
+  },
+  "phases": {
+    "setup": "done",
+    "audit": "done",
+    "measure": "done",
+    "ai_visibility": "pending",
+    "schedule": "pending"
+  },
+  "schedule": {
+    "mode": "none",
+    "time_local": "05:00",
+    "marker": ".seo-god/last-run.json"
+  },
+  "ai_prompts_locked": [],
+  "power_ups": {
+    "dataforseo": false,
+    "llm_keys": false,
+    "telegram": false
+  },
+  "build_cmd": "none",
+  "keywords": [
+    "notary emporium pa",
+    "notary public emporium pa",
+    "mobile notary emporium pa",
+    "mobile notary cameron county",
+    "passport photos emporium pa",
+    "emerald notary",
+    "pa notary public",
+    "remote online notary pennsylvania",
+    "ron notary pennsylvania",
+    "mobile notary pennsylvania",
+    "pa online notary",
+    "notary signing agent pa",
+    "loan signing agent pa",
+    "real estate notary pa",
+    "remote online notary",
+    "ron services",
+    "24/7 online notary",
+    "mobile notary near me",
+    "notary public near me",
+    "hospital notary"
+  ]
+}
