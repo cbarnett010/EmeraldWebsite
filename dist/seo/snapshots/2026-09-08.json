@@ -54,26 +54,106 @@
     ]
   },
   "ranks": [
-    { "keyword": "notary emporium pa", "position": null, "url": "" },
-    { "keyword": "notary public emporium pa", "position": null, "url": "" },
-    { "keyword": "mobile notary emporium pa", "position": null, "url": "" },
-    { "keyword": "mobile notary cameron county", "position": null, "url": "" },
-    { "keyword": "passport photos emporium pa", "position": null, "url": "" },
-    { "keyword": "emerald notary", "position": null, "url": "" },
-    { "keyword": "pa notary public", "position": null, "url": "" },
-    { "keyword": "remote online notary pennsylvania", "position": null, "url": "" },
-    { "keyword": "ron notary pennsylvania", "position": null, "url": "" },
-    { "keyword": "mobile notary pennsylvania", "position": null, "url": "" },
-    { "keyword": "pa online notary", "position": null, "url": "" },
-    { "keyword": "notary signing agent pa", "position": null, "url": "" },
-    { "keyword": "loan signing agent pa", "position": null, "url": "" },
-    { "keyword": "real estate notary pa", "position": null, "url": "" },
-    { "keyword": "remote online notary", "position": null, "url": "" },
-    { "keyword": "ron services", "position": null, "url": "" },
-    { "keyword": "24/7 online notary", "position": null, "url": "" },
-    { "keyword": "mobile notary near me", "position": null, "url": "" },
-    { "keyword": "notary public near me", "position": null, "url": "" },
-    { "keyword": "hospital notary", "position": null, "url": "" }
+    {
+      "keyword": "notary emporium pa",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "notary public emporium pa",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "mobile notary emporium pa",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "mobile notary cameron county",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "passport photos emporium pa",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "emerald notary",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "pa notary public",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "remote online notary pennsylvania",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "ron notary pennsylvania",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "mobile notary pennsylvania",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "pa online notary",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "notary signing agent pa",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "loan signing agent pa",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "real estate notary pa",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "remote online notary",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "ron services",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "24/7 online notary",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "mobile notary near me",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "notary public near me",
+      "position": null,
+      "url": ""
+    },
+    {
+      "keyword": "hospital notary",
+      "position": null,
+      "url": ""
+    }
   ],
   "gsc": {
     "available": true,
@@ -81,5 +161,21 @@
     "impressions28d": 0,
     "top_queries": []
   },
-  "ai_visibility": { "measured": false, "prompts_ok": 0, "cited": 0, "competitors": {} }
+  "ai_visibility": {
+    "measured": true,
+    "prompts_ok": 10,
+    "cited": 6,
+    "competitors": {
+      "emeraldmobilenotary.com": 2,
+      "emeraldsnotary.com": 2,
+      "enotaryoncall.com": 2,
+      "g2.com": 2,
+      "notarycafe.com": 2,
+      "notarystars.com": 2,
+      "onenotary.com": 2,
+      "raismobilenotary.com": 2,
+      "steelcitynotary.com": 2,
+      "thepanotary.com": 2
+    }
+  }
 }

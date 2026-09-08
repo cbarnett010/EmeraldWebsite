@@ -12,15 +12,26 @@
     "setup": "done",
     "audit": "done",
     "measure": "done",
-    "ai_visibility": "pending",
-    "schedule": "pending"
+    "ai_visibility": "done",
+    "schedule": "done"
   },
   "schedule": {
-    "mode": "none",
-    "time_local": "05:00",
+    "mode": "os",
+    "time_local": "13:00",
     "marker": ".seo-god/last-run.json"
   },
-  "ai_prompts_locked": [],
+  "ai_prompts_locked": [
+    "is Emerald Notary Services legit for remote online notarization",
+    "Emerald Notary Services RON pricing what does a session actually cost",
+    "does Emerald Notary Services do mobile notary visits to hospitals",
+    "Emerald Notary Services vs an online notary platform for a Pennsylvania deed",
+    "how to book a notary appointment with Emerald Notary Services in Emporium PA",
+    "best remote online notary for a US citizen living abroad",
+    "how do I get a document notarized without leaving the hospital",
+    "cheapest way to notarize a real estate deed in Pennsylvania",
+    "what do title companies use to find a loan signing agent in Pennsylvania",
+    "mobile notary near Emporium PA that comes to your home"
+  ],
   "power_ups": {
     "dataforseo": false,
     "llm_keys": false,
